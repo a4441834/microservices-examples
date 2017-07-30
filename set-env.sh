@@ -1,4 +1,11 @@
 #! /bin/bash -e
+#added this comment line on Feb 19, 2018 by subbu
+#added this comment line on Feb 19, 2018 by subbu
+#added this comment line on Feb 19, 2018 by subbu
+#added this comment line on Feb 19, 2018 by subbu
+#added this comment line on Feb 19, 2018 by subbu
+#added this comment line on Feb 19, 2018 by subbu
+
 
 if [ -z "$DOCKER_HOST_IP" ] ; then
     if [ -z "$DOCKER_HOST" ] ; then
